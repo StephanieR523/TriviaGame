@@ -1,0 +1,26 @@
+body{
+	background-image: url("../images/kardashian.jpg");
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+
+}
+
+.text-muted{
+    color: rgb(209, 160, 180);
+    font-family: 'Give You Glory', cursive;
+
+}
+
+.middle{
+    color:rgb(49, 49, 49); 
+    font-family: 'Give You Glory', cursive;
+    font-weight: bold; 
+
+}
+
+.last-seconds{
+  color: rgba(255, 0, 0, 0.781);
+}
+.option{
+  margin: 15px;
+}
